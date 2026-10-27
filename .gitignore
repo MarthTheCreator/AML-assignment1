@@ -1,0 +1,21 @@
+# Visual Studio Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/code-snippets
+
+# User-specific / Local state
+.vscode/launch.json
+.vscode/*.log
+
+# VS Code workspace state files
+*.code-workspace
+
+# VS Code history and extension cache directories
+.history/
+.ionide/
+
+# Crash reports and local storage logs
+*.log
