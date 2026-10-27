@@ -19,3 +19,8 @@
 
 # Crash reports and local storage logs
 *.log
+
+# Training and testing datasets
+xtrain.npy
+ytrain.npy
+xtest.npy
